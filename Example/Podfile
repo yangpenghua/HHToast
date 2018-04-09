@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HHToast_Example' do
+  pod 'HHToast', :path => '../'
+
+  target 'HHToast_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
