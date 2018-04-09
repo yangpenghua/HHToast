@@ -1,0 +1,16 @@
+PODS:
+  - HHToast (0.1.0)
+
+DEPENDENCIES:
+  - HHToast (from `../`)
+
+EXTERNAL SOURCES:
+  HHToast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHToast: 04d09a4d6504acdc62b32810bb75bf23d8761954
+
+PODFILE CHECKSUM: 1806153c84019c8bad3dc9ed25336671b25bddbc
+
+COCOAPODS: 1.5.0
